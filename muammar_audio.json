@@ -1,0 +1,66 @@
+{
+  "Ads": [
+    {
+      "select_ads": "ADMOB",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "admob_interid": "ca-app-pub-3940256099942544/1033173712",
+      "admob_bannerid": "ca-app-pub-3940256099942544/6300978111",
+      "admob_openid": "ca-app-pub-3940256099942544/1033173712",
+      "interval_intertitial": "2",
+      "startappid": "201669628",
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_banner": "YOUR_PLACEMENT_ID",
+      "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
+      "mopub_inter": "24534e1901884e398f1253216226017e",
+      "appodeal_key": "b195f8dd8ded45fe847ad89ed1d016da",
+      "packagename": "com.murottal.murottalmuammar"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "H Muammar ZA",
+      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Hanan Attaki",
+      "image": "https://1.bp.blogspot.com/-HxYE662vYyY/XSKrn1Km7dI/AAAAAAACcPc/9lR7W3zPeW0P5Wk12D33pG6o81UkTOR8gCLcBGAs/s1600/Hanan%2BAttaki%2BUHA.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "Mr. Kim",
+      "image": "file:///android_asset/image/kim.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "H Muammar ZA",
+      "title": "Nasihat kepada yang malas ibadah",
+      "image": "https://carapandang.com/assets/images/news/carapandang-30506.jpg",
+      "link_mp3": "https://archive.org/details/muammar_murottal_full/MuammarZA_Murottal_001_Al_Fatihah.mp3",
+      "duration": "70",
+      "lyrics": ""
+    },
+    {
+      "id": 2,
+      "name_category": "H Muammar ZA",
+      "title": "Al Muminun",
+      "image": "file:///android_asset/image/kim.jpg",
+      "link_mp3": "https://archive.org/details/muammar_murottal_full/MuammarZA_Murottal_023_Al_Muminun.mp3",
+      "duration": "2.067",
+      "lyrics": ""
+    },
+    {
+      "id": 3,
+      "name_category": "H Muammar ZA",
+      "title": "An Nuur",
+      "image": "file:///android_asset/image/kim.jpg",
+      "link_mp3": "https://archive.org/details/muammar_murottal_full/MuammarZA_Murottal_024_An_Nuur.mp3",
+      "duration": "2.538",
+      "lyrics": ""
+    }
+  ]
+}
